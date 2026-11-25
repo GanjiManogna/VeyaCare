@@ -282,7 +282,7 @@ The frontend tests use Node.js's built-in test runner. The tests exercise fronte
 
 ## Demo Video
 
-**Demo video:** [Add the demo video link here]
+**Demo video:** (https://drive.google.com/file/d/1_dGXSa419cpbRnqCqn428ooaubAOcqSD/view?usp=drive_link)
 
 The screen recording demonstrates the interface and on-screen interactions. It does not capture the receptionist's voice audio.
 
